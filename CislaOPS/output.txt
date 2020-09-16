@@ -1,0 +1,10 @@
+Enter any number. When you type 'END' the program will be ended.
+Enter any number. When you type 'END' the program will be ended.
+Enter any number. When you type 'END' the program will be ended.
+Enter any number. When you type 'END' the program will be ended.
+Enter any number. When you type 'END' the program will be ended.
+Enter any number. When you type 'END' the program will be ended.
+Total sum of your numbers is: 1150
+The average of your numbers is: 230
+Your biggest entered number is: 420
+Your smallest entered number is: 47
